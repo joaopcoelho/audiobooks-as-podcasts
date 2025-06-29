@@ -5,6 +5,12 @@
     <link>https://audiobooks-as-podcasts.com/</link>
     <description>Audiobooks as Podcasts</description>
     <language>en-us</language>
+    
+    <image>
+      <url>https://joaopcoelho.github.io/audiobooks-as-podcasts/cover.png</url>
+      <title>Audiobooks as Podcasts Logo</title>
+      <link>https://audiobooks-as-podcasts.com/</link>
+    </image>
 
     <item>
       <title>The Phoenix Project - Part 5</title>
