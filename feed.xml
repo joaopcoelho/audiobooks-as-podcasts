@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Audiobooks as Podcasts</title>
     <link>https://audiobooks-as-podcasts.com/</link>
     <description>Audiobooks as Podcasts</description>
     <language>en-us</language>
+    <itunes:image href="https://joaopcoelho.github.io/audiobooks-as-podcasts/cover.png" />
     
     <image>
       <url>https://joaopcoelho.github.io/audiobooks-as-podcasts/cover.png</url>
@@ -27,7 +28,7 @@
       <pubDate>Sun, 29 Jun 2025 13:30:00 GMT</pubDate>
       <description>The Phoenix Project - Part 4</description>
     </item>
-10nOYeDgVmB4uTKFV45D1Wrxckvkih90w
+
     <item>
       <title>The Phoenix Project - Part 3</title>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1bczpLwDEPdL5mJPKkVrxW0hOmzFUF22i" length="12345678" type="audio/mpeg" />
@@ -51,7 +52,6 @@
       <pubDate>Sun, 29 Jun 2025 12:00:00 GMT</pubDate>
       <description>The Phoenix Project - Part 1</description>
     </item>
-
 
   </channel>
 </rss>
