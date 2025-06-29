@@ -58,7 +58,3 @@ This repository hosts an **RSS feed** to turn audiobook MP3 files into a podcast
   * `pubDate`
 * Re-upload `feed.xml`.
 * Validate again if needed.
-
----
-
-Feel free to tweak or shorten for your README, or let me know if you want this reworded!
