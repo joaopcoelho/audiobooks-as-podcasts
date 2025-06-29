@@ -7,10 +7,18 @@
     <language>en-us</language>
 
     <item>
+      <title>Episode 3</title>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1bczpLwDEPdL5mJPKkVrxW0hOmzFUF22i" length="12345678" type="audio/mpeg" />
+      <guid>episode-2</guid>
+      <pubDate>Sun, 29 Jun 2025 13:00:00 GMT</pubDate>
+      <description>Third private episode from YouTube.</description>
+    </item>
+
+    <item>
       <title>Episode 2</title>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1JHr5ae4lNDvQMPdjCnFPPL6u0a-UWNIz" length="12345678" type="audio/mpeg" />
       <guid>episode-2</guid>
-      <pubDate>Sun, 29 Jun 2025 12:00:00 GMT</pubDate>
+      <pubDate>Sun, 29 Jun 2025 12:30:00 GMT</pubDate>
       <description>Second private episode from YouTube.</description>
     </item>
     
@@ -25,4 +33,3 @@
 
   </channel>
 </rss>
-
