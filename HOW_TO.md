@@ -47,9 +47,10 @@ This repository hosts an **RSS feed** to turn audiobook MP3 files into a podcast
 
 ✅ **How to add new episodes**
 
-* Upload the MP3 file.
+* Download the audiobook using yt-dlp (e.g. `yt-dlp -x --audio-format mp3 <youtube-url>`)
+* Upload the MP3 file to Google Drive.
+    * If file is more than 100mb - split it using Audacity.
 * Create a new `<item>` block in `feed.xml` with:
-
   * Title
   * Enclosure URL (Google Drive direct link)
   * Unique `<guid>`
