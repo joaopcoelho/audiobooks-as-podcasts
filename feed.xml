@@ -7,6 +7,14 @@
     <language>en-us</language>
 
     <item>
+      <title>Episode 4</title>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1HVR3VXExNmLZAQCdcKCm9Q6mb8GfhIl8" length="12345678" type="audio/mpeg" />
+      <guid>episode-4</guid>
+      <pubDate>Sun, 29 Jun 2025 13:30:00 GMT</pubDate>
+      <description>Fourth private episode from YouTube.</description>
+    </item>
+
+    <item>
       <title>Episode 3</title>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1bczpLwDEPdL5mJPKkVrxW0hOmzFUF22i" length="12345678" type="audio/mpeg" />
       <guid>episode-3</guid>
